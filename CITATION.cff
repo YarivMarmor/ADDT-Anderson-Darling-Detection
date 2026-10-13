@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the software and the associated scientific publication."
+type: software
+title: "ADDT — Anderson-Darling Detection Tool"
+authors:
+  - family-names: Marmor
+    given-names: Yariv N.
+    orcid: "https://orcid.org/0000-0001-9200-5041"
+repository-code: "https://github.com/YarivMarmor/ADDT-Anderson-Darling-Detection"
+version: 0.2.0
+date-released: 2026-10-13
+license: MIT
+references:
+  - type: article
+    title: "Abrupt change of process behavior: The Anderson-Darling detection tool"
+    authors:
+      - family-names: Marmor
+        given-names: Yariv N.
+      - family-names: Bashkansky
+        given-names: Evgeny
+    doi: 10.1080/08982112.2017.1343480
+    journal: Quality Engineering
+    year: 2018
+    volume: 30
+    issue: 2
+    start: 283
+    end: 292
