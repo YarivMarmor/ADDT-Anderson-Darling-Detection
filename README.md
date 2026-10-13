@@ -193,4 +193,4 @@ Braude College of Engineering, Israel
 
 ## License
 
-Software license information will be provided in the repository's `LICENSE` file. Until that file is added, the repository should not be assumed to grant open-source reuse permissions merely because its source code is publicly accessible.
+This software is distributed under the MIT License. See the [LICENSE](LICENSE) file for details.
