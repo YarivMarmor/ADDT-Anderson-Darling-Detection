@@ -33,3 +33,15 @@ Two provided sample TXT files included under `examples/`. The 299 archived sprea
 ## Windows EXE / GitHub
 
 `build_exe.bat` builds a Windows `dist/ADDT_Research_Preview.exe` with PyInstaller. `.github/workflows/windows.yml` can build an EXE from the browser via Actions > Windows EXE > Run workflow, after uploading the repository. The EXE must be smoke-tested on Windows before publication.
+
+## Scientific publication
+
+ADDT implements the Anderson–Darling change detection approach introduced in the following publication:
+
+Marmor, Y. N., & Bashkansky, E. (2018). Abrupt change of process behavior: The Anderson-Darling detection tool. *Quality Engineering, 30*(2), 283–292.
+
+**DOI:** https://doi.org/10.1080/08982112.2017.1343480
+
+The original research introduced an Excel/VBA implementation. This repository provides a Python-based implementation and a standalone Windows application.
+
+**Research Preview:** The Python implementation reproduces the legacy calculation approach, but complete independent numerical and statistical validation remains in progress.
